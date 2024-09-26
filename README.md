@@ -37,7 +37,7 @@ Please freel free to point out errors, corrections, improvements, etc.
 
 1. [Das Boot](boot.md)
 2. [Entering the Kernel](entry.md)
-3. [Spin-Locks](spin_locks.md)
+3. ~~[Spin-Locks](spin_locks.md)~~
 4. [Paging: Page Allocation](page_allocation.md)
 5. [Paging: Kernel Page Directory](paging_kernel.md)
 6. [Paging: User Space and Processes](paging_user.md)
