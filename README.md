@@ -38,13 +38,13 @@ Please freel free to point out errors, corrections, improvements, etc.
 1. [Das Boot](boot.md)
 2. [Entering the Kernel](entry.md)
 3. ~~[Spin-Locks](spin_locks.md)~~
-4. [Paging: Page Allocation](page_allocation.md)
+4. ~~[Paging: Page Allocation](page_allocation.md)~~
 5. [Paging: Kernel Page Directory](paging_kernel.md)
 6. [Paging: User Space and Processes](paging_user.md)
 7. Devices: Multiprocessing (optional)
 8. Devices: Interrupt Controllers (optional)
-9. [Processes](processes.md)
-10. [Scheduling](scheduling.md)
+9. ~~[Processes](processes.md)~~
+10. ~~[Scheduling](scheduling.md)~~
 11. [It's a Trap!](traps.md)
 12. [System Calls: Routing](syscalls_routing.md)
 13. [System Calls: Processes](syscalls_processes.md)
